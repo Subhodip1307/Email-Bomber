@@ -26,7 +26,7 @@ Or you can Follow this link (https://myaccount.google.com/apppasswords) both wil
    ![image](https://user-images.githubusercontent.com/111901004/216810711-64df8381-6834-43d0-b83f-19ca2524cd28.png)
 6.	 After clicking on “GENERATE” button you will get your Key.
  ![image](https://user-images.githubusercontent.com/111901004/216810769-47dd2382-e75f-46ed-9868-133820df3e32.png)
-7.	Copy the code from Bomber.py or download it form this git clone link (https://github.com/Subhodip1307/Email_Bomber.git)
+7.	Copy the code from Bomber.py or download it form this git clone link (https://github.com/Subhodip1307/Email-Bomber.git)
 8.	After opening the program, it will ask for your email id and key and target email and the numbers of emails you want to send. 
 9.	After getting the all details the code will start sending emails. 
 
