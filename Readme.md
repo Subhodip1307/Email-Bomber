@@ -1,6 +1,7 @@
 # Email Bomber
 Email Bomber is easy to use and a light wight tool. This tool can be use to send a huge number of emails at a single email at a time. there is no limitation of sending emails (Now this tool is only able to send email to Gmail), for this reason it can be pretty disturbing for most of people but kindly use for just for making fun with friends. So, it’s clear that this tool is made for fun with friends and education purpose only.     
 # Requirements
+•	python3
 •	Fast Internet net speed.
 •	A valid email of yours’s.
 •	A key (we have discussed in this Readme file about the key).
@@ -27,6 +28,7 @@ Or you can Follow this link (https://myaccount.google.com/apppasswords) both wil
 6.	 After clicking on “GENERATE” button you will get your Key.
  ![image](https://user-images.githubusercontent.com/111901004/216810769-47dd2382-e75f-46ed-9868-133820df3e32.png)
 7.	Copy the code from Bomber.py or download it form this git clone link (https://github.com/Subhodip1307/Email-Bomber.git)
+8. open the folder of the coiped Repositories in cmd or terminal and run python Setup.py and after that run python Bomber.py  
 8.	After opening the program, it will ask for your email id and key and target email and the numbers of emails you want to send. 
 9.	After getting the all details the code will start sending emails. 
 
